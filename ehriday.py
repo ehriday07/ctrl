@@ -326,7 +326,6 @@ def moch_yayan():
                     yayanxd()
                 print()
                 ikeh_ikeh_kimochi()
-                jembut()
                 print(
                     '\n\x1b[1;96m        ∆∆∆_______HRIDAY CHAUDHARY 𝙸𝚖 𝚗𝚘𝚝 𝚋𝚊𝚍 𝚒𝚖 𝚢𝚘𝚞 𝚊𝚛𝚎 𝚍𝚊𝚍 . _______∆∆∆')
                 print('\x1b[1;95m     疊╔═╦═────••♽••─────═╦═╗疊')
@@ -404,5 +403,4 @@ if __name__ == "__main__":
     croot()
     ikeh_ikeh_kimochi()
     kontol()
-    moch_yayan()
     yayanxd()
